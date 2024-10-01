@@ -17,9 +17,12 @@ int x ; // it will secure the space x in the memory !
 
 there is a concept of Lvalue and R value 
 
+by assignment operator when we use a new value by assigning " = "
+
 */
 int total_students; 
 total_students = 20;
+total_students = 30; 
  
  printf("Total number of students : %d\n", total_students);
 // printf("NAN");
@@ -28,6 +31,6 @@ total_students = total_students + 5;
 
 
 cout << total_students<<endl;
-
+ 
 
 }
