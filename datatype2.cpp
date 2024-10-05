@@ -32,12 +32,14 @@ printf(" \nThe value of P for typecasting example will be : %lf", p);
 //double p = 1.0*a / b ; it will be typecasted 
 
 
+char c , e ;
 
+e = 'a'; 
 
+printf("the character will be : %c", e);
+
+//now what is & ? this is the memory address of the inputed value
 return 0; 
-
-
-
 /* Instructor Tanjumul ; 
  Program class record number : 09 */
 
